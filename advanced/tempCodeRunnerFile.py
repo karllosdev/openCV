@@ -1,0 +1,1 @@
+img = cv.imread(r"C:\Users\Karllos\Desktop\OpenCV\recursos\photos\park.jpg")
